@@ -1,0 +1,31 @@
+.list2 p{
+    color: blanchedalmond;
+    width: 380px;
+    background-color: rgb(238, 11, 105);
+    height: 50PX;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+.list2 p{
+    padding: 10px;
+    position: relative;
+}
+.list2 p span{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
+.btn2{
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 5px;
+}
+.list2 p input{
+    background-color: transparent;
+    border: 0;
+    color: white;
+    font-size: 18px;
+}
+.list2 p input:focus{
+    outline: none;
+}
